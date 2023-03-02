@@ -1,0 +1,23 @@
+.bootstrap-select {
+	border: 1px solid #ced4da !important;
+}
+
+.bootstrap-select .dropdown-menu {
+	border: 1px solid #ced4da !important;
+}
+
+.modal{
+	background-color: rgba(0, 0, 0, 0.7);
+}
+
+.modalAlerts .modal-header svg{
+	font-size: 100px; 
+}
+
+.modalAlerts .modal-header h4{
+	font-size: 100px; 
+}
+
+.modalAlerts .modal-body p{
+	overflow-wrap: anywhere;
+}
